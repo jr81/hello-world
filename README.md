@@ -1,2 +1,2 @@
 # hello-world
-Create github account to hopefully contribute to some open source projects.
+Create github account so I can hopefully contribute to other open source projects.
